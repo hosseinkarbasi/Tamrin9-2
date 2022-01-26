@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="question_1">1. آخرین مدافعی که موفق به بردن توپ طلا شد حنیف عمران زاده بود. </string>
+    <string name="question_2">2. در موسیقی هفت نت وجود دارد. </string>
+    <string name="question_3">3. فیلم ممل آمریکایی اولین فیلمی بود که ۱۱ جایزه اسکار را کسب کرد.</string>
+    <string name="question_4">4. بارسا بهترین تیم تاریخ است.</string>
+    <string name="question_5">5. لیونل مسی بهترین بازیکن تاریخ است.</string>
+    <string name="question_6">6. زنبور ها پنج چشم دارند.</string>
+    <string name="question_7">7. پدر شعر نو لقب ابی است.</string>
+    <string name="question_8">8. سریع ترین عضله بدن زبان است.</string>
+    <string name="question_9">9. گورخرها فروان ترین موجودات  روی کره زمین می باشند.</string>
+    <string name="question_10">10. پرجمعیت ترین کشور جهان چین است.</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">NEXT</string>
+    <string name="previous_button">PREV</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="judgment_toast">Cheating is Wrong</string>
+    <string name="cheat_warning">Are you sure you to do this?</string>
+</resources>
